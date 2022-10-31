@@ -1,4 +1,4 @@
-# XOXGame
+
 
 <h1>6X6 XOX GAME Writed by Kotlin <h1>
 (https://user-images.githubusercontent.com/55055268/199023704-475dbd35-55b9-45d4-9ef6-1e0d9cda0689.jpg)
